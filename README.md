@@ -4,7 +4,9 @@
 
 
 
-https://github.com/kevinM01/Stock-Trading-App/assets/78092182/4d74ca03-9f6e-4c0e-b77c-d3ee8023aed4
+https://github.com/kevinM01/Stock-Trading-App/assets/78092182/af28af83-d692-44ae-9c49-3ce6abc80a76
+
+
 
 
 
@@ -36,4 +38,7 @@ SF Symbols: Library of iconography used within the app.
 Amazon Web Services (AWS): Cloud services for backend support.
 
 MongoDB: Database for storing user data, including favorites and portfolio information.
+
+# For source code Contact
+@Author: Kevin Masalia @kevinM01
 
