@@ -1,7 +1,11 @@
 # Stock-Trading-App
 
 ## Demo
-![home](https://github.com/kevinM01/Algorithmic-Comparison-Prediction-of-Real-Estate-Pricing/assets/78092182/02155f1c-3b1a-49f0-b619-af4e54b421e5)
+
+
+
+https://github.com/kevinM01/Stock-Trading-App/assets/78092182/4d74ca03-9f6e-4c0e-b77c-d3ee8023aed4
+
 
 
 ## Description
