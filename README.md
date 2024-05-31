@@ -40,5 +40,5 @@ Amazon Web Services (AWS): Cloud services for backend support.
 MongoDB: Database for storing user data, including favorites and portfolio information.
 
 # For source code Contact
-@Author: Kevin Masalia @kevinM01
+@Author: [Kevin Masalia @kevinM01](https://github.com/kevinM01)
 
